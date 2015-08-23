@@ -16,3 +16,11 @@ Latest version of Uniform server pre-extracted and ready to fork for web project
 **Notes:**
 
 +	unicontroller.exe doesn't work properly (after being cloned) if steps 5-7 are ignored
+
+## requirements
+
++	Windows
+
+## tips
+
++	dropbox compatible
