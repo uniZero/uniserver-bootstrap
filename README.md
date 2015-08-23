@@ -1,6 +1,8 @@
 # uniserver-bootstrap
 Latest version of Uniform server pre-extracted and ready to fork for web projects.
 
+**Current version:** Uniform Server 11.7.8
+
 ## how this was made
 
 1.	copied uniform files into repo root
@@ -19,8 +21,9 @@ Latest version of Uniform server pre-extracted and ready to fork for web project
 
 ## requirements
 
-+	Windows
++	windows
 
-## tips
+## notes
 
 +	dropbox compatible
++	not compatible with paths containing spaces
