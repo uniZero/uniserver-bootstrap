@@ -1,0 +1,11 @@
+[Sun Aug 23 03:46:58.377044 2015] [mpm_winnt:notice] [pid 11044:tid 624] AH00455: Apache/2.4.12 (Win32) PHP/5.4.43 configured -- resuming normal operations
+[Sun Aug 23 03:46:58.377044 2015] [mpm_winnt:notice] [pid 11044:tid 624] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Sun Aug 23 03:46:58.377044 2015] [core:notice] [pid 11044:tid 624] AH00094: Command line: 'C:\\Users\\Happy\\Documents\\repo\\uniserver-bootstrap\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Happy/Documents/repo/uniserver-bootstrap/core/apache2 -f C:\\Users\\Happy\\Documents\\repo\\uniserver-bootstrap\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Happy\\Documents\\repo\\uniserver-bootstrap\\core\\apache2'
+[Sun Aug 23 03:46:58.378045 2015] [mpm_winnt:notice] [pid 11044:tid 624] AH00418: Parent: Created child process 9564
+[Sun Aug 23 03:46:58.661233 2015] [mpm_winnt:notice] [pid 9564:tid 668] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 23 03:51:01.764451 2015] [core:warn] [pid 9884:tid 360] AH00098: pid file C:/Users/Happy/Documents/repo/uniserver-bootstrap/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 23 03:51:01.798472 2015] [mpm_winnt:notice] [pid 9884:tid 360] AH00455: Apache/2.4.12 (Win32) PHP/5.4.43 configured -- resuming normal operations
+[Sun Aug 23 03:51:01.798472 2015] [mpm_winnt:notice] [pid 9884:tid 360] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Sun Aug 23 03:51:01.798472 2015] [core:notice] [pid 9884:tid 360] AH00094: Command line: 'C:\\Users\\Happy\\Documents\\repo\\uniserver-bootstrap\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Happy/Documents/repo/uniserver-bootstrap/core/apache2 -f C:\\Users\\Happy\\Documents\\repo\\uniserver-bootstrap\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Happy\\Documents\\repo\\uniserver-bootstrap\\core\\apache2'
+[Sun Aug 23 03:51:01.799473 2015] [mpm_winnt:notice] [pid 9884:tid 360] AH00418: Parent: Created child process 11204
+[Sun Aug 23 03:51:02.063648 2015] [mpm_winnt:notice] [pid 11204:tid 708] AH00354: Child: Starting 150 worker threads.
